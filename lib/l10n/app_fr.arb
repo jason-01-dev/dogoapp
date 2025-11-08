@@ -1,0 +1,21 @@
+{
+  "@@locale": "fr",
+  "settingsTitle": "Réglages IA de DoGo",
+  "selectAddressTitle": "Sélectionner une adresse",
+  "notificationsTitle": "Notifications",
+  "enableNotifications": "Activer les notifications",
+  "remindersTitle": "Rappels automatiques",
+  "reminder1h": "1 heure avant",
+  "reminder30m": "30 minutes avant",
+  "reminder10m": "10 minutes avant",
+  "reminder5m": "5 minutes avant",
+  "selectFromMap": "Choisir depuis la carte",
+  "selectedAddressNone": "Aucune adresse sélectionnée",
+  "saveFocusTime": "Sauvegarder le Temps de Focus",
+  "focusModeTitle": "Mode Focus Quotidien",
+  "themeTitle": "Thème de l'application",
+  "darkMode": "Mode sombre",
+  "chooseAddressDemo": "Sélectionner cette adresse (demo)",
+  "cancel": "Annuler",
+  "select": "Sélectionner"
+}
